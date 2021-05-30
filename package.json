@@ -1,0 +1,32 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Algoritms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all":"cd JavaScript & node index.js",
+    "linear": "cd JavaScript & node 01._LinearSearch.js",
+    "binary": "cd JavaScript & node 02._BinarySearch.js",
+    "selection": "cd JavaScript & node 03._SelectionSort.js",
+    "bubble": "cd JavaScript & node 04._BubbleSort.js",
+    "quich": "cd JavaScript & node 05._QuichSort.js",
+    "recursion": "cd JavaScript & node 06._Recursion.js",
+    "depth": "cd JavaScript & node 07._Depth.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirpetukhov/Algoritms.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "C#",
+    "TypeScript"
+  ],
+  "author": "Vladimir Petukhov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladimirpetukhov/Algoritms/issues"
+  },
+  "homepage": "https://github.com/vladimirpetukhov/Algoritms#readme"
+}
