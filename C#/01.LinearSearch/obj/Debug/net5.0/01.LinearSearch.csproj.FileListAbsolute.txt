@@ -1,0 +1,16 @@
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\bin\Debug\net5.0\01.LinearSearch.exe
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\bin\Debug\net5.0\01.LinearSearch.deps.json
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\bin\Debug\net5.0\01.LinearSearch.runtimeconfig.json
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\bin\Debug\net5.0\01.LinearSearch.runtimeconfig.dev.json
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\bin\Debug\net5.0\01.LinearSearch.dll
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\bin\Debug\net5.0\ref\01.LinearSearch.dll
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\bin\Debug\net5.0\01.LinearSearch.pdb
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.csprojAssemblyReference.cache
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.AssemblyInfoInputs.cache
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.AssemblyInfo.cs
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.csproj.CoreCompileInputs.cache
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.dll
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\ref\01.LinearSearch.dll
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.pdb
+F:\Code\NODEJS\Algoritms\C#\01.LinearSearch\obj\Debug\net5.0\01.LinearSearch.genruntimeconfig.cache
