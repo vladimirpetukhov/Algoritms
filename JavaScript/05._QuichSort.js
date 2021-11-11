@@ -25,6 +25,36 @@ const quickSort = (array) => {
   return [...quickSort(less), pivot, ...quickSort(greater)];
 };
 
+const prime = () => {
+  const numbers = [];
+  count=0;
+
+  for (let index = 0; index < 2000000; index++) {
+    if(isPrime(index))
+    count+=index;
+    
+  }
+  
+  
+
+  return count;
+}
+
+function isPrime (n)
+{
+    if (n < 2) return false;
+
+    var q = Math.floor(Math.sqrt(n));
+    for (var i = 2; i <= q; i++)
+    { 
+        if (n % i == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+console.log(prime());
 console.log(quickSort(arr));
 console.log("count", count);
 
